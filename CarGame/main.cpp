@@ -480,7 +480,6 @@ void fristDesign(){
         glColor3f(0.000, 1.000, 1.000);
         renderBitmapString(30-5,50-40,(void *)font3,"Project By:");
         renderBitmapString(30-5,50-43,(void *)font3,"Zunaid Mahdi");
-        //renderBitmapString(30-5,50-46,(void *)font3,"Sharmin Akter");
 
 
 }
